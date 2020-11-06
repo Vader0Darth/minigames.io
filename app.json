@@ -1,0 +1,12 @@
+{
+  "name": "minigames.io",
+  "displayName": "minigames.io",
+  "expo": {
+    "name": "minigames.io",
+    "slug": "minigames.io",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
